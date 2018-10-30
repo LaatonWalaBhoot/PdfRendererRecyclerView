@@ -1,4 +1,4 @@
-# PdfRedererRecyclerView
+# PdfRendererRecyclerView
 A LaatonWalaBhoot creation...
 
 A sample implementation of the PDFRenderer class introduced in API level 21. Instead of paging a simple Recycler view implementation has been provided with Pinch zooming. This version uses Coroutines to read and load local PDF from the assets folder. You are free to add your own exception handling, inside the Lifecycle observer class. 
